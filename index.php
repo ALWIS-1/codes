@@ -48,7 +48,7 @@
     <center><br><br><br>
     <form action="" method="POST">
 <div class="ff"><br><br>
-    <h1>Login Form</h1><br><br><br>
+    <h1>Login here</h1><br><br><br>
     <i class="fa-solid fa-user"></i><input type="text" name="username" placeholder="Enter your username"><br><br>
     <i class="fa-solid fa-unlock-keyhole"></i><input type="password" name="password" placeholder="Enter your password"><br><br><br>
     <button name="create">Login</button><a href="create.php">Create Account</a></div>
